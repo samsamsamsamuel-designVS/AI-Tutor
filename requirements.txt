@@ -1,0 +1,5 @@
+# Versions matched to the installed environment used to verify this project.
+streamlit==1.64.0
+crewai==1.15.22
+python-dotenv>=1.0,<2
+pydantic>=2.11,<3
